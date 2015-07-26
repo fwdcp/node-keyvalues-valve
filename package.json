@@ -1,6 +1,6 @@
 {
   "name": "keyvalues-valve",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "parser & writer for the Valve KeyValues format",
   "main": "index.js",
   "repository": {
@@ -11,8 +11,8 @@
     "KeyValues",
     "Valve"
   ],
-  "author": "Forward Command Post",
-  "license": "GPL-3.0",
+  "author": "Forward Command Post (http://fwdcp.net)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fwdcp/node-keyvalues-valve/issues"
   },
