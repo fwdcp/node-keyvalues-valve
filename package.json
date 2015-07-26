@@ -1,0 +1,23 @@
+{
+  "name": "keyvalues-valve",
+  "version": "0.0.0",
+  "description": "parser & writer for the Valve KeyValues format",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwdcp/node-keyvalues-valve.git"
+  },
+  "keywords": [
+    "KeyValues",
+    "Valve"
+  ],
+  "author": "Forward Command Post",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fwdcp/node-keyvalues-valve/issues"
+  },
+  "homepage": "https://github.com/fwdcp/node-keyvalues-valve#readme",
+  "dependencies": {
+    "es6-shim": "^0.32.2"
+  }
+}
